@@ -1,0 +1,17 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+WebSocket/.classpath
+.factorypath
+WebSocket/.project
+WebSocket/.settings
+.springBeans
+
+### IntelliJ IDEA ###
+WebSocket/.idea
+*.iws
+WebSocket/*.iml
+*.ipr
+
